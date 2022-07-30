@@ -1,5 +1,7 @@
 # SolidJS Typescript Template
 
+SolidJS Typescript Template with Vite and Tailwind
+
 ## Install dependencies
 
 ```shell
