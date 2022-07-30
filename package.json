@@ -17,7 +17,7 @@
   "scripts": {
     "build": "tsc && vite build",
     "start:dev": "vite",
-    "start:prod": "vite preview",
+    "start:prev": "vite preview",
     "lint": "eslint 'src/**/*.{ts,tsx}'",
     "lint:fix": "eslint --fix 'src/**/*.{ts,tsx}'",
     "format": "prettier --write 'src/**/*.{ts,tsx,css}' --config ./.prettierrc"
