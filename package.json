@@ -30,7 +30,7 @@
     "@typescript-eslint/parser": "^5.47.0",
     "autoprefixer": "^10.4.8",
     "babel-preset-solid": "^1.6.6",
-    "eslint": "^8.26.0",
+    "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-solid": "^0.8.0",
