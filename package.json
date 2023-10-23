@@ -23,7 +23,7 @@
     "format": "prettier --write 'src/**/*.{ts,tsx,css}' --config ./.prettierrc"
   },
   "dependencies": {
-    "solid-js": "^1.8.1"
+    "solid-js": "^1.8.3"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.7.5",
