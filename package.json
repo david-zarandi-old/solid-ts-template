@@ -26,7 +26,7 @@
     "solid-js": "^1.8.5"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.11.0",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
     "@typescript-eslint/parser": "^6.11.0",
     "autoprefixer": "^10.4.16",
     "babel-preset-solid": "^1.8.4",
