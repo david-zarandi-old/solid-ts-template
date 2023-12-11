@@ -40,7 +40,7 @@
     "tailwindcss": "^3.3.6",
     "typescript": "^5.3.2",
     "vite": "^5.0.7",
-    "vite-plugin-solid": "^2.7.2",
+    "vite-plugin-solid": "^2.8.0",
     "vite-tsconfig-paths": "^4.2.2"
   }
 }
